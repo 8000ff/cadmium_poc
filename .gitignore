@@ -1,0 +1,4 @@
+__pycache__/
+build/
+cadmium.egg-info/
+*.gcode
